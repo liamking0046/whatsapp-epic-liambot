@@ -1,1 +1,2 @@
 { "name": "LiamsBot", "version": "1.0.0" }
+"main": "lib/bot.js",
