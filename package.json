@@ -1,2 +1,6 @@
 { "name": "LiamsBot", "version": "1.0.0" }
 "main": "lib/bot.js",
+"scripts": {
+  "start": "node lib/bot.js"
+}
+
